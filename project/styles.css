@@ -1,0 +1,68 @@
+body {
+	background: linear-gradient(to top, #adcd90 	, #ffffff 100%);
+	background-attachment: fixed;
+	overflow-x: hidden;
+	font-size: 25;
+	margin:0px;
+	margin-top:10px;
+}
+
+#menu {
+	height: 100px;
+   	position: relative;
+    padding: auto;
+
+
+}
+
+#nav {
+	background-image: url("tiger2.jpg");
+	background-size: contain;
+	height : 1000px;
+    margin: 25px 0;
+}
+
+.heading {
+	font-size : 60;
+    padding: 30px;
+	position : relative;
+	top : 200px;
+	right : 480px;
+}
+
+
+#about
+{
+    text-align: center;
+
+
+}
+#about h3{
+	text-align:justify;
+	
+}
+
+#donate {
+	text-align: center;
+	position : relative;
+	
+}
+
+p{
+	white-space:pre;
+    font-size: 60;
+}
+form {
+	position : center; 
+	top : 250px;
+	left : 660px;
+}
+
+#terms {
+    font-size: medium;
+	position : absolute; 
+    text-align: center;
+	top : 300px;
+	left : 170px;
+    right: 170px;
+}
